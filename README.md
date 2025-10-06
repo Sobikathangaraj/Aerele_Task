@@ -19,7 +19,15 @@ The project was designed to demonstrate **full-stack development skills** with a
 
 
 ### Products Report
-<img width="719" height="716" alt="Balance Report" src="https://github.com/user-attachments/assets/ea775dbf-27de-46cc-a1b9-e58a46c3bc86" />
+
+<img width="719" height="716" alt="Products Report" src="https://github.com/user-attachments/assets/3692a126-1ada-40be-a7cb-dc6df4816f95" />
+
+---
+
+### Balance Report
+
+
+<img width="719" height="716" alt="Balance Report" src="https://github.com/user-attachments/assets/564b61d4-ddac-4b59-943a-7f6393609e67" />
 
 ---
 
