@@ -1,6 +1,7 @@
 # Inventory Manager
 
 I developed a **web-based Inventory Management System** using **Flask** as the backend framework, **SQLite** as the database, and **Bootstrap** for a clean and responsive UI.  
+Business track products, store them in different locations, record stock movements, and see the current stock levels at each place
 The project was designed to demonstrate **full-stack development skills** with a focus on **data modeling, CRUD operations, and real-time reporting**.
 
 ---
@@ -16,10 +17,8 @@ The project was designed to demonstrate **full-stack development skills** with a
 
 ##  Output Screenshots
 
-### Products Page
-<img width="719" height="716" alt="Products Page" src="https://github.com/user-attachments/assets/47774313-f02d-46d8-a40a-82a5f2f42419" />
 
-### Balance Report
+### Products Report
 <img width="719" height="716" alt="Balance Report" src="https://github.com/user-attachments/assets/ea775dbf-27de-46cc-a1b9-e58a46c3bc86" />
 
 ---
